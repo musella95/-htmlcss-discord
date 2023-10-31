@@ -3,3 +3,12 @@
     padding: 0;
     box-sizing: border-box;
 }
+.bg-blue{
+    background-color: #255EE9;
+}
+.bg-image{
+    background-image: url("../img/jumbo.png");
+    background-size: 100%;
+    background-position: 70%;
+}
+    
